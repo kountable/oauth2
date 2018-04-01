@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Nyarum/oauth2"
+	"github.com/kountable/oauth2"
 )
 
 func ExampleConfig() {

@@ -11,15 +11,15 @@
 // server.
 //
 // See http://tools.ietf.org/html/draft-ietf-oauth-v2-31#section-4.4
-package clientcredentials // import "github.com/Nyarum/oauth2/clientcredentials"
+package clientcredentials // import "github.com/kountable/oauth2/clientcredentials"
 
 import (
 	"net/http"
 	"net/url"
 	"strings"
 
-	"github.com/Nyarum/oauth2"
-	"github.com/Nyarum/oauth2/internal"
+	"github.com/kountable/oauth2"
+	"github.com/kountable/oauth2/internal"
 	"golang.org/x/net/context"
 )
 

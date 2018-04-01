@@ -12,9 +12,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Nyarum/oauth2"
-	"github.com/Nyarum/oauth2/google"
-	"github.com/Nyarum/oauth2/jwt"
+	"github.com/kountable/oauth2"
+	"github.com/kountable/oauth2/google"
+	"github.com/kountable/oauth2/jwt"
 	"google.golang.org/appengine"
 	"google.golang.org/appengine/urlfetch"
 )

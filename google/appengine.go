@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Nyarum/oauth2"
+	"github.com/kountable/oauth2"
 	"golang.org/x/net/context"
 )
 

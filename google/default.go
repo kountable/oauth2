@@ -15,8 +15,8 @@ import (
 	"runtime"
 
 	"cloud.google.com/go/compute/metadata"
-	"github.com/Nyarum/oauth2"
-	"github.com/Nyarum/oauth2/jwt"
+	"github.com/kountable/oauth2"
+	"github.com/kountable/oauth2/jwt"
 	"golang.org/x/net/context"
 )
 

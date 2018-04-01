@@ -9,9 +9,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Nyarum/oauth2"
-	"github.com/Nyarum/oauth2/internal"
-	"github.com/Nyarum/oauth2/jws"
+	"github.com/kountable/oauth2"
+	"github.com/kountable/oauth2/internal"
+	"github.com/kountable/oauth2/jws"
 )
 
 // JWTAccessTokenSourceFromJSON uses a Google Developers service account JSON

@@ -6,7 +6,7 @@
 package bitbucket
 
 import (
-	"github.com/Nyarum/oauth2"
+	"github.com/kountable/oauth2"
 )
 
 // Endpoint is Bitbucket's OAuth 2.0 endpoint.

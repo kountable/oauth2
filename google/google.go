@@ -12,7 +12,7 @@
 // https://developers.google.com/accounts/docs/OAuth2
 // and
 // https://developers.google.com/accounts/docs/application-default-credentials.
-package google // import "github.com/Nyarum/oauth2/google"
+package google // import "github.com/kountable/oauth2/google"
 
 import (
 	"encoding/json"
@@ -22,8 +22,8 @@ import (
 	"time"
 
 	"cloud.google.com/go/compute/metadata"
-	"github.com/Nyarum/oauth2"
-	"github.com/Nyarum/oauth2/jwt"
+	"github.com/kountable/oauth2"
+	"github.com/kountable/oauth2/jwt"
 )
 
 // Endpoint is Google's OAuth 2.0 endpoint.

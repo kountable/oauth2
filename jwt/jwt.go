@@ -18,9 +18,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Nyarum/oauth2"
-	"github.com/Nyarum/oauth2/internal"
-	"github.com/Nyarum/oauth2/jws"
+	"github.com/kountable/oauth2"
+	"github.com/kountable/oauth2/internal"
+	"github.com/kountable/oauth2/jws"
 	"golang.org/x/net/context"
 )
 

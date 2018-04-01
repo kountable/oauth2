@@ -5,8 +5,8 @@
 package jwt_test
 
 import (
-	"github.com/Nyarum/oauth2"
-	"github.com/Nyarum/oauth2/jwt"
+	"github.com/kountable/oauth2"
+	"github.com/kountable/oauth2/jwt"
 )
 
 func ExampleJWTConfig() {

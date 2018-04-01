@@ -5,7 +5,7 @@
 // Package oauth2 provides support for making
 // OAuth2 authorized and authenticated HTTP requests.
 // It can additionally grant authorization with Bearer JWT.
-package oauth2 // import "github.com/Nyarum/oauth2"
+package oauth2 // import "github.com/kountable/oauth2"
 
 import (
 	"bytes"
@@ -15,7 +15,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Nyarum/oauth2/internal"
+	"github.com/kountable/oauth2/internal"
 	"golang.org/x/net/context"
 )
 

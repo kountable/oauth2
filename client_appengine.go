@@ -11,7 +11,7 @@ package oauth2
 import (
 	"net/http"
 
-	"github.com/Nyarum/oauth2/internal"
+	"github.com/kountable/oauth2/internal"
 	"golang.org/x/net/context"
 	"google.golang.org/appengine/urlfetch"
 )
